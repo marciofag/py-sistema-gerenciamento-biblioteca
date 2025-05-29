@@ -15,3 +15,5 @@ na biblioteca.
 ano de publicação.
 - Relatórios: Gera relatórios que exibem a lista de livros disponíveis, livros emprestados,
 usuários cadastrados, etc.
+
+https://github.com/marciofag/py-sistema-gerenciamento-biblioteca/blob/main/sistema_gerenciamento_biblioteca.ipynb
